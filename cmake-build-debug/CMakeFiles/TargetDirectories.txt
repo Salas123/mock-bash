@@ -1,5 +1,0 @@
-/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/cmake-build-debug/CMakeFiles/main.dir
-/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/cmake-build-debug/CMakeFiles/testPipe.dir
-/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/cmake-build-debug/CMakeFiles/rshell.dir

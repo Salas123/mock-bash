@@ -1,4 +1,8 @@
-# Project:
+# Project: Mock Bash Terminal
+
+## Contributors:
+* Jesus Salas
+* Alice Nguyen
 
 ## This program does the following 
 * Runs bash commands with the following connectors ( "||", "&&", ";" )
@@ -68,6 +72,6 @@
   * Task 6: github set up (2.5%)
   * Task 7: code shell test cases (2.5%)
 
-###Bugs
+### Bugs
   * Pipe commands after first input will begin to behave out of order
   * Ending command with abort after a line of commands will not end the program, needs to be entered as single command
