@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/src/commandClass.h
+sys/types.h
+-
+sys/wait.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+iostream
+-
+string
+-
+errno.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+fstream
+-
+
+/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/src/rshell.cpp
+commandClass.h
+/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/src/commandClass.h
+vector
+-
+

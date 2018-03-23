@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jesussalas/Documents/CS100/Assignments/cs100-assignment-2-alice-and-jesus/parsing_test.cpp
+string
+-
+iostream
+-
+vector
+-
+
